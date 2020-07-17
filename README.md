@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+My favourites tools: TypeScript, React, Svelte
 <!--
 **dorian-morones/dorian-morones** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
