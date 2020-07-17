@@ -1,9 +1,9 @@
 ### Hi there 👋
 🎮 Video Games | 🎼 Rock & Hip-Hop | 💙 Programming | 🌎 Mexico
 
-🔭 I’m currently working on ReactJS, Javascript, Typescript
-🌱 I’m currently learning React Native, Svelte.
-😄 Pronouns: he/him/his
+- 🔭 I’m currently working on ReactJS, Javascript, Typescript
+- 🌱 I’m currently learning React Native, Svelte.
+- 😄 Pronouns: he/him/his
 
 <!--
 **dorian-morones/dorian-morones** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
