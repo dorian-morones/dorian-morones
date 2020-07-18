@@ -5,6 +5,8 @@
 - 🌱 I’m currently learning React Native, Svelte.
 - 😄 Pronouns: he/him/his
 
+
+
 <!--
 **dorian-morones/dorian-morones** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -18,4 +20,11 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+<p align="left">
+  <img src="https://konpa.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="24px" height="24px"/> !
+  <img src="https://konpa.github.io/devicon/devicon.git/icons/react/react-original-wordmark.svg" alt="react" width="24px" height="24px"/>
+  <img src="https://konpa.github.io/devicon/devicon.git/icons/typescript/typescript-original.svg" alt="javascript" width="24px" height="24px"/>
+</p>
+
 -->
