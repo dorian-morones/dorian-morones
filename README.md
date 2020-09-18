@@ -2,7 +2,7 @@
 🎮 Video Games | 🎼 Rock & Hip-Hop | 💙 Programming | 🌎 Mexico
 
 - 🔭 I’m currently working on ReactJS, Javascript, Typescript
-- 🌱 I’m currently learning React Native, Svelte.
+- 🌱 I’m currently learning React Native, Ruby.
 - 😄 Pronouns: he/him/his
 
 
