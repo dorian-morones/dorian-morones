@@ -5,7 +5,7 @@
 - 🌱  I’m currently learning Python, React Native.
 - 😄  Pronouns: he/him/his
 
-- Github Work Profile: https://github.com/raptorian/raptorian
+- Github Work Profile: https://github.com/raptorian
 
 
 
