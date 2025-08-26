@@ -4,6 +4,10 @@
 
 ---
 
+> "Code is like humor. When you have to explain it, it’s bad." – Cory House
+
+---
+
 ## 🚀 What I Do
 - Building modern web applications with **React** & **Next.js**
 - Creating cross-platform apps with **React Native** & exploring **Flutter**
@@ -35,8 +39,3 @@
 ## 📫 Connect With Me
 - [GitHub Work Profile](https://github.com/dorian-morones)  
 - [LinkedIn Profile](https://www.linkedin.com/in/dorian-morones/)
-
----
-
-### 😄 Pronouns
-he/him/his
