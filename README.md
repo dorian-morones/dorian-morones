@@ -1,12 +1,38 @@
-### Hi there 👋
-🎮 Video Games | 🎼 Rock & Hip-Hop | 💙 Programming | 🌎 Mexico
+# Hi there! 👋 I'm Dorian
 
-- 🔭  I’m currently working on ReactJS, Javascript, Typescript
-- 🌱  I’m currently learning Python, React Native.
-- 😄  Pronouns: he/him/his
+🎮 **Gamer** | 🎼 **Rock & Hip-Hop Enthusiast** | 💙 **Programmer** | 🌎 **From Mexico** | 🏠 **Living in Texas**
 
-- Github Work Profile: https://github.com/raptorian
+---
 
+## 🚀 What I Do
+- Building apps with **ReactJS**, **JavaScript**, and **TypeScript**
+- Exploring **Python** & **React Native** to expand my stack
+
+---
+
+## 🛠️ Tech Stack
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![React Native](https://img.shields.io/badge/React%20Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+
+---
+
+## 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=raptorian&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=raptorian&layout=compact&theme=radical)
+
+---
+
+## 📫 Connect With Me
+- [GitHub Work Profile](https://github.com/raptorian)  
+- *(Add LinkedIn, portfolio, or personal site here)*
+
+---
+
+### 😄 Pronouns
+he/him/his
 
 
 <!--
