@@ -1,6 +1,6 @@
 # Hi there! 👋 I'm Dorian
 
-🎮 **Gamer** | 🎼 **Rock & Hip-Hop Enthusiast** | 💙 **Programmer** | 🌎 **From Mexico** | 🏠 **Living in Texas**
+🎮 **Gamer** | 💙 **Programmer** | 🌎 **From Mexico** | 🏠 **Living in Texas**
 
 ---
 
