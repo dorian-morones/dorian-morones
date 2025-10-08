@@ -10,7 +10,7 @@
 
 ## 🚀 What I Do
 - Building modern web applications with **React**, **Next.js** & **Typescript**
-- Creating cross-platform apps with **React Native** & exploring **Flutter**
+- Creating cross-platform apps with **React Native** & **Expo**
 - Writing scalable APIs & automation with **Python**
 - Experimenting with **MCP** and emerging technologies
 
