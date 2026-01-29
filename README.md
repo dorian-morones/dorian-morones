@@ -15,7 +15,7 @@ Engineering Manager with 10+ years of experience crafting high-performance SaaS 
 - **Innovation:** Architecture leverages a "Native-Only" backend—using **iCloud Key-Value Storage** for state sync and **Game Center** for global competitive play.
 - **Stack:** React Native, Expo, SQLite, Expo Router.
 
-### 🐾 [Pawver]([https://github.com/dmx3/pawver](https://dorianmorones-com.vercel.app/projects/pawver)
+### 🐾 [Pawver](https://github.com/dmx3/pawver](https://dorianmorones-com.vercel.app/projects/pawver)
 **Data-Driven Pet Management** A comprehensive care platform that simplifies the complexity of pet healthcare. Designed-first to streamline medical records, activity logging, and nutrition for modern pet parents.
 - **Innovation:** Highly intuitive UX/UI designed to handle multi-pet complexity without cognitive load.
 - **Stack:** React Native, Expo, Next.JS, TypeScript, Styled Components, Supabase, PostgresSql.
