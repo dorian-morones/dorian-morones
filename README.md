@@ -20,7 +20,7 @@ Engineering Manager with 10+ years of experience crafting high-performance SaaS 
 - **Innovation:** Highly intuitive UX/UI designed to handle multi-pet complexity without cognitive load.
 - **Stack:** React Native, Expo, Next.JS, TypeScript, Styled Components, Supabase, PostgresSql.
 
-### 🐾 [Postmator](https://linkedin-post-formater.vercel.app/)
+### 🖋️ [Postmator](https://linkedin-post-formater.vercel.app/)
 **LinkedIn Post Formatter** got tired of boring, plain-text LinkedIn posts. This is a simple utility I use to add bold, italics, and lists to my own content using Unicode characters that actually work in the LinkedIn feed.
 - **Innovation:** Features a custom hook-based state engine that manages complex selection ranges, keyboard shortcuts, and "Format Toggling" (applying/stripping Unicode styles) in real-time.
 - **Stack:** Next.js, React, TypeScript, Tailwind.
