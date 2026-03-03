@@ -11,15 +11,19 @@ Engineering Manager with 10+ years of experience crafting high-performance SaaS 
 ## 🛠 Featured Projects
 
 ### 🧠 [Brainwake](https://dorianmorones-com.vercel.app/projects/brainwake)
-**The "Mental Espresso" for iOS** A high-performance mental agility engine built for rapid cognitive training. Designed with a minimalist "square" aesthetic to minimize distraction and maximize focus.
+**The "Mental Espresso" for iOS** I built this as a way to take high-quality breaks. Instead of doomscrolling, I wanted a minimalist space to sharpen my focus through quick cognitive challenges without any clutter or distractions.
 - **Innovation:** Architecture leverages a "Native-Only" backend—using **iCloud Key-Value Storage** for state sync and **Game Center** for global competitive play.
 - **Stack:** React Native, Expo, SQLite, Expo Router.
 
 ### 🐾 [Pawver](https://dorianmorones-com.vercel.app/projects/pawver)
-**Data-Driven Pet Management** A comprehensive care platform that simplifies the complexity of pet healthcare. Designed-first to streamline medical records, activity logging, and nutrition for modern pet parents.
+**Pet Care for the Modern Nomad** Keeping track of pet records is a nightmare, especially when traveling. I created this to have a single, reliable place for medical history and nutrition logs that actually works when you're on the go.
 - **Innovation:** Highly intuitive UX/UI designed to handle multi-pet complexity without cognitive load.
 - **Stack:** React Native, Expo, Next.JS, TypeScript, Styled Components, Supabase, PostgresSql.
 
+### 🐾 [Postmator](https://linkedin-post-formater.vercel.app/)
+**LinkedIn Post Formatter** got tired of boring, plain-text LinkedIn posts. This is a simple utility I use to add bold, italics, and lists to my own content using Unicode characters that actually work in the LinkedIn feed.
+- **Innovation:** Features a custom hook-based state engine that manages complex selection ranges, keyboard shortcuts, and "Format Toggling" (applying/stripping Unicode styles) in real-time.
+- **Stack:** Next.js, React, TypeScript, Tailwind.
 ---
 
 ## 🛠 Tech Stack & Ecosystem
