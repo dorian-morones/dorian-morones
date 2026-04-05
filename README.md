@@ -10,6 +10,11 @@ Engineering Manager with 10+ years of experience crafting high-performance SaaS 
 
 ## 🛠 Featured Projects
 
+###  🦫 [Capy Crew Agents](https://github.com/dorian-morones/capy-crew-agents)
+**A spec-first development pipeline for Claude Code.** I built this to stop myself from vibe-coding. A crew of specialized subagents enforces the discipline — no code gets written until a spec is approved, with developer sign-off gates between each phase.
+- Innovation: The repo acts as its own self-hosted plugin marketplace, so anyone can install it with two commands without Anthropic approval or cloning anything locally.
+- Stack: Claude Code Plugin API, Skills + Agents + Commands, Markdown + YAML.
+
 ### 🧠 [Brainwake](https://dorianmorones-com.vercel.app/projects/brainwake)
 **The "Mental Espresso" for iOS** I built this as a way to take high-quality breaks. Instead of doomscrolling, I wanted a minimalist space to sharpen my focus through quick cognitive challenges without any clutter or distractions.
 - **Innovation:** Architecture leverages a "Native-Only" backend—using **iCloud Key-Value Storage** for state sync and **Game Center** for global competitive play.
